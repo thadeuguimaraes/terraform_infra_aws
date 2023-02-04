@@ -5,4 +5,4 @@
 2. Dentro da pasta principal, crie uma pasta chamada "output".
 3. Adicione o arquivo "lambda_function.zip" dentro da pasta "output".
 4. Crie outra pasta chamada "modules" e coloque os outros módulos mencionados anteriormente dentro dela.
-5. Abra a pasta principal em sua IDE e comece a construir sua infraestrutura na nuvem usando o conceito do Terraform como referência. OBS: os outros módulos mencionados estão aqui no meu Github.
+5. Abra a pasta principal em sua IDE e comece a construir sua infraestrutura na nuvem usando o conceito do Terraform como referência. OBS: os outros módulos mencionados acima estão aqui no meu Github.
